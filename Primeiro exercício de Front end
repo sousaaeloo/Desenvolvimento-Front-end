@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ExercicioFrontEnd</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Exercícios de Front-End</h1>
+        <ol>
+            <li>Titanic</li>
+            <li>Meu primeiro amor</li>
+            <li>Uma linda mulher</li>
+       </ol>
+         <ol start="10">
+            <li>Exterminador do Futuro II</li>
+            <li>De volta para o futuro</li>
+            <li>Idiana Jones</li>
+         </ol>
+         <ol start="20">
+            <li>Sexta-Feira 13</li>
+            <li>A hora do pesadelo</li>
+         </ol>
+         <div class="foto">
+            <img src="imagens/cachorro.jpeg" alt="cachorro" class="image">
+            <span class="text">Com esta pagina estou mostrando <br> uma forma de colocar um texto entre duas<br> figuras</span>
+            <img src="imagens/cachorro.jpeg" alt="cachorro2" class="image">
+        </div>
+        <div class="tabelinha">
+            <h4>Processador </h4>
+            <h4> Velocidade<br> (MHz) </h4>
+            <h4> Preço de <br>lançamento* </h4>
+            <h4> Data de<br> lançamento </h4>
+            <h4> preços em <br>Agosto/200* </h4>
+            <h4> Queda<br>%</h4>
+        </div>
+        <div class="primeiracoluna">
+            <p>AMD K-6 </p>
+              <p> 200 </p> 
+               <p>315 </p> 
+               <p>Abril/97</p>  
+               <p> 107 </p>
+               <p>66</p> 
+               </div>
+               <div class="segundacoluna">
+            <p>AMD K-6 </p> 
+               <p> 233 </p>
+               <p>437 </p> 
+                <p>Maio/97 </p>
+               <p>284 </p> 
+                <p>35</p>
+                </div>
+                <div class="terceiracoluna">
+            <p>Cyrix 6x86</p>
+                <p>200</p> 
+                <p>240 </p>
+                <p>Maio/97</p> 
+                <p>188 </p>
+                <p>22</p>
+                </div>
+                <div class="quartacoluna">
+            <p>Cyrix 6x86 </p>
+                <p>233 </p>
+                <p>320 </p>
+                <p>Maio/97</p> 
+                <p>290</p> 
+               <p>9</p> 
+               </div>
+               <div class="quintacoluna">
+            <p>Intel Pentium II </p>
+                <p>233 </p>
+                <p>636 </p>
+                <p>Maio/97 </p>
+                <p>530 </p>
+                <p>17</p>
+               </div>
+                <div class="sextacoluna">
+            <p>Intel Pentium II 
+               <p>266 </p> 
+                <p>775</p> 
+                <p>Maio/97</p>
+              <p>699</p>   
+                <p>10</p>
+        </div>
+            <div class="letrinha">
+            <p>* Preços FOB da unidade em USS para lotes de mil; o preço no Brasil fica em média 25% mais caro</p>
+            <p>Informações retiradas da revista Informática Exame de setembro/1977</p>
+        </div>
+
+</body>    
+</html>
