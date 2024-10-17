@@ -1,0 +1,95 @@
+.foto {
+    display: flex;
+    align-items: center;
+    space
+}
+
+.image {
+    margin: 0px 10px; 
+}
+
+.text {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0 10px; 
+}
+.tabelinha {
+    display: flex;
+    align-items: center;
+    margin: 0px 10px;
+    padding: 30px;
+    justify-content: space-between;
+    font-size: large;
+ 
+}
+.primeiracoluna{
+
+ align-items:center;
+ justify-content:space-between;
+ padding:30px ;
+ margin: 0 10px;
+ display:flex;
+ font-size: large;
+line-height:1.0;
+
+}
+
+.segundacoluna{
+
+    align-items:center;
+    justify-content:space-between;
+    padding:30px ;
+    margin: 0 10px;
+    display:flex;
+    font-size: large;
+   line-height:1.0;
+}
+
+.terceiracoluna{
+
+    align-items:center;
+    justify-content:space-between;
+    padding:30px ;
+    margin: 0 10px;
+    display:flex;
+    font-size: large;
+   line-height:1.0;
+}
+
+.quartacoluna{
+
+    align-items:center;
+    justify-content:space-between;
+    padding:30px ;
+    margin: 0 10px;
+    display:flex;
+    font-size: large;
+   line-height:1.0;
+}
+
+.quintacoluna{
+
+    align-items:center;
+    justify-content:space-between;
+    padding:30px ;
+    margin: 0 10px;
+    display:flex;
+    font-size: large;
+   line-height:1.0;
+}
+
+.sextacoluna{
+
+    align-items:center;
+    justify-content:space-between;
+    padding:30px ;
+    margin: 0 10px;
+    display:flex;
+    font-size: large;
+   line-height:1.0;
+}
+
+.letrinha{
+    font-size: small;
+    padding:30px;
+}
